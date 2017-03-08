@@ -1,0 +1,1 @@
+<p>Your register is completed</p>

@@ -1,0 +1,1 @@
+<a href="<?php echo $verification_link; ?>" style="color: green;font-size: 20px">Verification</a>

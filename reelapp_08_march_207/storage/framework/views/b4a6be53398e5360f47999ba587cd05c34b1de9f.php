@@ -1,0 +1,1 @@
+<a href="<?php echo $verification_link; ?>">Verification</a>

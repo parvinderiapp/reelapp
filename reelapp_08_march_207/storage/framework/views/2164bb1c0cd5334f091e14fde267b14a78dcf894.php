@@ -1,0 +1,1 @@
+<p>Your verification has been completed</p>
