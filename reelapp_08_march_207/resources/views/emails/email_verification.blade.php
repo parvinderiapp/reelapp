@@ -1,1 +1,0 @@
-<a href="{!! $verification_link !!}" style="color: green;font-size: 20px">Verification</a>

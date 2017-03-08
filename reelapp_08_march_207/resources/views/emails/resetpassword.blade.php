@@ -1,1 +1,0 @@
-<p>Click here to reset your password</p><a href="{!! $verification_link !!}">Reset Password</a>

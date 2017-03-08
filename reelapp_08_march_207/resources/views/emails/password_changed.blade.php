@@ -1,1 +1,0 @@
-<p>your new password has been created successfully</p>
