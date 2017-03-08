@@ -1,0 +1,1 @@
+<p>You OTP code is <b>{!! $otp_code !!}</b></p> 
